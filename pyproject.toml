@@ -1,0 +1,10 @@
+[project]
+name = "reflex-dev"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faker>=33.1.0",
+    "reflex>=0.6.6.post2",
+]
